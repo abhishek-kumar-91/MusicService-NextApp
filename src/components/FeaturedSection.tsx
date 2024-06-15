@@ -40,7 +40,7 @@ function FeaturedSection() {
                                 <p
                                 className='text-sm text-neutral-400 flex-grow'
                                 >{course.description}</p>
-                                <Link href={`/courses/${course.slug}`} className='text-white'>
+                                <Link href={`/courses`} className='text-white'>
                                 learn more
                                 </Link>
                                </div>
