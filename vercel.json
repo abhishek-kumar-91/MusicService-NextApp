@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      { "source": "/old-home", "destination": "/" }
+    ],
+    "redirects": [
+      { "source": "/old-contact", "destination": "/contact", "permanent": true },
+      { "source": "/old-courses", "destination": "/courses", "permanent": true }
+    ]
+  }
